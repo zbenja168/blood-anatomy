@@ -1,0 +1,210 @@
+[
+  {
+    "id": "blanat-001",
+    "imageRef": "blanat-001_bl004_f02.png",
+    "answer": "Spherocytes",
+    "brick": "Autoimmune Hemolytic Anemias",
+    "category": "Histology & Cell Biology",
+    "explanation": "Macrophages remove chunks of the antibody-coated membrane, leaving cells that round up. Lacking spare membrane, they cannot contort through tiny capillaries and splenic cords and are destroyed."
+  },
+  {
+    "id": "blanat-002",
+    "imageRef": "blanat-002_bl010_f04.png",
+    "answer": "Neutrophil maturation",
+    "brick": "Hematopoiesis",
+    "category": "Histology & Cell Biology",
+    "explanation": "Neutrophil maturation proceeds myeloblast -> promyelocyte -> myelocyte -> metamyelocyte -> band -> segmented neutrophil, during which the initially round nucleus indents and then segments into the multilobed nucleus of the mature neutrophil."
+  },
+  {
+    "id": "blanat-003",
+    "imageRef": "blanat-003_bl017_f02.png",
+    "answer": "Megakaryocytes",
+    "brick": "Thrombocytopenia",
+    "category": "Histology & Cell Biology",
+    "explanation": "The large cells are megakaryocytes. Platelets are produced when megakaryocytes in the bone marrow break down, releasing platelets into the blood stream; reduced megakaryocyte activity leads to decreased platelet production."
+  },
+  {
+    "id": "blanat-004",
+    "imageRef": "blanat-004_bl019_f01.png",
+    "answer": "Giant platelets",
+    "brick": "Platelet Assays",
+    "category": "Histology & Cell Biology",
+    "explanation": "Morphology assessment on a blood smear can reveal hereditary platelet disorders such as those producing abnormally large (giant) platelets. The arrows here indicate giant platelets among normal red cells, an abnormality detectable only by manual microscopic review."
+  },
+  {
+    "id": "blanat-005",
+    "imageRef": "blanat-005_bl026_f02.png",
+    "answer": "Lymph node",
+    "brick": "Benign Lymphadenopathies",
+    "category": "Histology & Cell Biology",
+    "explanation": "The paracortex (deep cortex) is the T-cell zone of the lymph node, whereas the follicles of the outer cortex contain predominantly B cells."
+  },
+  {
+    "id": "blanat-006",
+    "imageRef": "blanat-006_bl032_f01.png",
+    "answer": "Normal RBCs",
+    "brick": "Red Blood Cell Laboratory Tests",
+    "category": "Histology & Cell Biology",
+    "explanation": "Normal RBCs are biconcave discs, so the central region is thin and contains little hemoglobin. This produces the zone of central pallor (roughly one third of the cell diameter) seen on a normal smear, not a true absence of hemoglobin or a nuclear remnant."
+  },
+  {
+    "id": "blanat-007",
+    "imageRef": "blanat-007_bl034_f03.png",
+    "answer": "Burkitt lymphoma",
+    "brick": "B-Cell Non-Hodgkin Lymphomas",
+    "category": "Histology & Cell Biology",
+    "explanation": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris."
+  },
+  {
+    "id": "blanat-008",
+    "imageRef": "blanat-008_bl035_f06.png",
+    "answer": "Cerebriform cell",
+    "brick": "T-Cell Non-Hodgkin Lymphomas",
+    "category": "Histology & Cell Biology",
+    "explanation": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease."
+  },
+  {
+    "id": "blanat-009",
+    "imageRef": "blanat-009_bl035_f07.png",
+    "answer": "Pautrier microabscess",
+    "brick": "T-Cell Non-Hodgkin Lymphomas",
+    "category": "Histology & Cell Biology",
+    "explanation": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells."
+  },
+  {
+    "id": "blanat-010",
+    "imageRef": "blanat-010_bl036_f03.png",
+    "answer": "Nodular sclerosis",
+    "brick": "Hodgkin Lymphoma",
+    "category": "Histology & Cell Biology",
+    "explanation": "Broad collagen bands dividing the node into cellular nodules, together with lacunar-type Reed-Sternberg cell variants, are characteristic of nodular sclerosis, the most common subtype of classic Hodgkin lymphoma."
+  },
+  {
+    "id": "blanat-011",
+    "imageRef": "blanat-011_bl037_f02.png",
+    "answer": "Plasma cells",
+    "brick": "Multiple Myeloma and Plasma Cell Disorders",
+    "category": "Histology & Cell Biology",
+    "explanation": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma."
+  },
+  {
+    "id": "blanat-012",
+    "imageRef": "blanat-012_bl039_f03.png",
+    "answer": "Bone marrow",
+    "brick": "Chronic Myeloid Leukemia",
+    "category": "Histology & Cell Biology",
+    "explanation": "The marrow in chronic-phase CML is moderately to markedly hypercellular, with the fat spaces largely replaced by a proliferating granulocytic (neutrophilic) series and numerous megakaryocytes."
+  },
+  {
+    "id": "blanat-013",
+    "imageRef": "blanat-013_bl045_f01.png",
+    "answer": "Myeloblast",
+    "brick": "Acute Myeloid Leukemia",
+    "category": "Histology & Cell Biology",
+    "explanation": "Blasts are the earliest, most immature precursor cells. Myeloblasts are large with a high nuclear-to-cytoplasmic ratio, fine (open) chromatin, and prominent nucleoli, distinguishing them from the smaller, mature lymphocyte with its condensed nucleus and scant cytoplasm."
+  },
+  {
+    "id": "blanat-014",
+    "imageRef": "blanat-014_bl046_f01.png",
+    "answer": "Hematopoiesis",
+    "brick": "Hematopoietic Stem Cell Transplantation",
+    "category": "Histology & Cell Biology",
+    "explanation": "The cell at the top of this hematopoiesis tree is the pluripotent hematopoietic stem cell, defined by its ability to self-renew and to give rise to all myeloid and lymphoid blood elements."
+  },
+  {
+    "id": "blanat-015",
+    "imageRef": "blanat-015_bl047_f01.png",
+    "answer": "Spleen",
+    "brick": "Structure and Function of the Spleen",
+    "category": "Gross Anatomy",
+    "explanation": "The spleen lies in the left upper quadrant, tucked beneath the diaphragm and posterolateral to the stomach, shielded by ribs 9-11. Its position explains why splenic enlargement is felt below the left costal margin."
+  },
+  {
+    "id": "blanat-016",
+    "imageRef": "blanat-016_bl047_f03.png",
+    "answer": "Gastrosplenic ligament",
+    "brick": "Structure and Function of the Spleen",
+    "category": "Gross Anatomy",
+    "explanation": "The gastrosplenic ligament carries the short gastric arteries/veins and the left gastroepiploic vessels, all branches of the splenic vessels. The nearby splenorenal ligament instead conveys the splenic artery and vein and the tail of the pancreas."
+  },
+  {
+    "id": "blanat-017",
+    "imageRef": "blanat-017_bl047_f04.png",
+    "answer": "Splenic vasculature",
+    "brick": "Structure and Function of the Spleen",
+    "category": "Gross Anatomy",
+    "explanation": "The splenic artery is the largest branch of the celiac trunk. Its accompanying splenic vein leaves the hilum and unites with the superior mesenteric vein to form the hepatic portal vein, as depicted."
+  },
+  {
+    "id": "blanat-018",
+    "imageRef": "blanat-018_bl047_f06.png",
+    "answer": "Splenic sinusoid",
+    "brick": "Structure and Function of the Spleen",
+    "category": "Histology & Cell Biology",
+    "explanation": "Stave cells lie lengthwise like barrel staves and are bound by reticulin (collagen III) fibers arranged in a barrel-hoop fashion, leaving slit-like gaps. Deformable healthy RBCs squeeze through these slits into the sinusoid; rigid damaged cells are held back for phagocytosis."
+  },
+  {
+    "id": "blanat-019",
+    "imageRef": "blanat-019_bl047_f07.png",
+    "answer": "White pulp",
+    "brick": "Structure and Function of the Spleen",
+    "category": "Histology & Cell Biology",
+    "explanation": "The periarteriolar lymphoid sheath surrounds the central arteriole and is rich in T cells. Adjacent splenic follicles (with germinal centers) are the B-cell zones; the marginal zone links the two and screens blood-borne antigens."
+  },
+  {
+    "id": "blanat-020",
+    "imageRef": "blanat-020_bl047_f08.png",
+    "answer": "Splenic histology",
+    "brick": "Structure and Function of the Spleen",
+    "category": "Histology & Cell Biology",
+    "explanation": "The coexistence of blood-filled red pulp and periarteriolar lymphoid white pulp organized around central arterioles is characteristic of the spleen. Lymph nodes have cortex/medulla with subcapsular sinuses and lack red pulp with central arterioles."
+  },
+  {
+    "id": "blanat-021",
+    "imageRef": "blanat-021_bl047_f09.png",
+    "answer": "PALS",
+    "brick": "Structure and Function of the Spleen",
+    "category": "Histology & Cell Biology",
+    "explanation": "The PALS is the T-cell compartment of splenic white pulp, wrapping the central arteriole. B cells instead reside in the adjacent follicles, which appear as rounded zones with germinal centers next to the sheath."
+  },
+  {
+    "id": "blanat-022",
+    "imageRef": "blanat-022_bl047_f10.png",
+    "answer": "Splenic follicle",
+    "brick": "Structure and Function of the Spleen",
+    "category": "Histology & Cell Biology",
+    "explanation": "The germinal center houses activated B cells undergoing proliferation and antibody affinity maturation. It is surrounded by the mantle zone (resting B cells) and the marginal zone, which links the follicle to the T-cell-rich PALS."
+  },
+  {
+    "id": "blanat-023",
+    "imageRef": "blanat-023_bl048_f01.png",
+    "answer": "Spleen",
+    "brick": "Disorders of the Spleen",
+    "category": "Gross Anatomy",
+    "explanation": "The spleen is a highly vascular solid organ located in the left upper quadrant beneath the lower ribs, which makes it vulnerable to chest wall and rib injuries on the left side."
+  },
+  {
+    "id": "blanat-024",
+    "imageRef": "blanat-024_bl053_f01.png",
+    "answer": "Marburg virus",
+    "brick": "Hemorrhagic Viruses",
+    "category": "Histology & Cell Biology",
+    "explanation": "The image shows long, thread-like enveloped virions typical of the Filoviridae family (Marburg/Ebola), which have a helical nucleocapsid enclosed in an envelope and a filamentous morphology."
+  },
+  {
+    "id": "blanat-025",
+    "imageRef": "blanat-025_bl055_f04.png",
+    "answer": "Councilman bodies",
+    "brick": "Arboviruses",
+    "category": "Histology & Cell Biology",
+    "explanation": "The arrowed structures are Councilman (acidophil) bodies, hepatocytes dying by apoptosis. They shrink, become deeply eosinophilic, and lose their nucleus, distinguishing them from swollen or fat-laden cells."
+  },
+  {
+    "id": "blanat-026",
+    "imageRef": "blanat-026_bl059_f01.png",
+    "answer": "Normal RBCs",
+    "brick": "Red Blood Cell Laboratory Tests",
+    "category": "Histology & Cell Biology",
+    "explanation": "Normal RBCs are biconcave discs, so their thin central region contains little hemoglobin and appears as a pale zone of central pallor (about one-third of the cell diameter). Mature RBCs have no nucleus, and inclusions such as Heinz bodies or nuclear remnants are abnormal findings."
+  }
+]
